@@ -4,12 +4,12 @@
 
 ### Full-Stack Web Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Next.js+%7C+Node.js+%7C+PostgreSQL;Building+Modern+Web+Applications;Artificial+Intelligence+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;Next.js+%7C+Node.js+%7C+PostgreSQL;Building+Modern+Web+Applications;Artificial+Intelligence+Enthusiast;Always+Learning+New+Technologies" />
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=PinoyCoder29&style=for-the-badge&color=2563EB" />
-<img src="https://img.shields.io/github/followers/PinoyCoder29?style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/PinoyCoder29?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=PinoyCoder29&style=for-the-badge&color=2563EB"/>
+<img src="https://img.shields.io/github/followers/PinoyCoder29?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/PinoyCoder29?style=for-the-badge"/>
 </p>
 
 </div>
@@ -18,19 +18,9 @@
 
 # About Me
 
-I'm a Full-Stack Web Developer from the Philippines with a passion for building modern, scalable, and user-friendly web applications.
+I'm a **Full-Stack Web Developer** from the Philippines with a strong interest in building modern, scalable, and user-focused web applications.
 
-I enjoy developing complete solutions—from responsive user interfaces to backend APIs and database design. I'm continuously improving my skills by building real-world projects and exploring new technologies in web development and artificial intelligence.
-
----
-
-# Current Focus
-
-- Building production-ready full-stack applications
-- Learning advanced software architecture
-- Exploring AI integration for web applications
-- Improving backend performance and scalability
-- Looking for opportunities as a Full-Stack / Software Developer
+My experience includes developing responsive frontends, RESTful APIs, database integration, authentication systems, and AI-powered applications. I enjoy learning new technologies and continuously improving my development skills by building real-world projects.
 
 ---
 
@@ -42,6 +32,8 @@ I enjoy developing complete solutions—from responsive user interfaces to backe
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,bootstrap&perline=7"/>
 </p>
 
+---
+
 ### Backend
 
 <p>
@@ -49,11 +41,15 @@ I enjoy developing complete solutions—from responsive user interfaces to backe
 <img src="https://go-skill-icons.vercel.app/api/icons?i=nodemailer" height="48"/>
 </p>
 
+---
+
 ### Databases & ORM
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,prisma&perline=7"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,prisma&perline=6"/>
 </p>
+
+---
 
 ### Cloud & Deployment
 
@@ -63,6 +59,8 @@ I enjoy developing complete solutions—from responsive user interfaces to backe
 <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black"/>
 </p>
 
+---
+
 ### Development Tools
 
 <p>
@@ -70,14 +68,18 @@ I enjoy developing complete solutions—from responsive user interfaces to backe
 <img src="https://go-skill-icons.vercel.app/api/icons?i=xampp" height="48"/>
 </p>
 
+---
+
 ### Artificial Intelligence & Machine Learning
 
 <p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,opencv" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,opencv"/>
 <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/GRU-6C63FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MobileNetV2-FF9800?style=for-the-badge"/>
 </p>
+
+---
 
 ### Programming Languages
 
@@ -90,35 +92,31 @@ I enjoy developing complete solutions—from responsive user interfaces to backe
 # Featured Projects
 
 | Project | Description |
-|---------|-------------|
-| **EsignMo** | AI-powered sign language translation web application using computer vision. |
-| **ptFINDER** | Platform connecting students in Quezon Province with flexible part-time job opportunities. |
-| **LOMILINDOL** | Real-time earthquake monitoring and alert system. |
-| **Patient Record System** | Web-based patient information management system. |
-| **Private Resort Booking System** | Online reservation platform for private resorts. |
+|:---------|:------------|
+| **EsignMo** | AI-powered sign language translation system using computer vision and deep learning. |
+| **ptFINDER** | A platform connecting students with part-time job opportunities in Quezon Province. |
+| **LOMILINDOL** | Real-time earthquake monitoring and alert system. *(3rd Place - OpenIT Hackathon 2025)* |
+| **Patient Record System** | Web-based patient information and record management system. |
+| **Private Resort Booking System** | Online booking and reservation management platform. |
 | **Inventory System** | Inventory and stock management application. |
-| **Shoes E-commerce** | Full-stack online shopping platform. |
+| **Shoes E-commerce** | Full-stack online shopping platform built with modern web technologies. |
 
 ---
 
 # GitHub Analytics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=PinoyCoder29&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinoyCoder29&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
 
-# Contribution Streak
+# GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=PinoyCoder29&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -126,9 +124,7 @@ I enjoy developing complete solutions—from responsive user interfaces to backe
 # GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PinoyCoder29&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=PinoyCoder29&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
 </p>
 
 ---
@@ -136,27 +132,14 @@ I enjoy developing complete solutions—from responsive user interfaces to backe
 # Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PinoyCoder29&theme=tokyo-night"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PinoyCoder29&theme=tokyo-night&hide_border=true"/>
 </p>
-
----
-
-# Goals
-
-- Build high-quality full-stack applications
-- Improve software architecture knowledge
-- Learn Docker and Kubernetes
-- Learn AWS Cloud
-- Contribute to open-source projects
-- Continue improving AI integration skills
 
 ---
 
 # Connect
 
-<p>
+<p align="left">
 
 <a href="https://pinoycoder.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -166,7 +149,7 @@ I enjoy developing complete solutions—from responsive user interfaces to backe
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -180,6 +163,8 @@ I enjoy developing complete solutions—from responsive user interfaces to backe
 
 <div align="center">
 
-*"Building software that solves real-world problems."*
+### Thanks for visiting my profile.
+
+*"Building software that solves real-world problems through clean code and continuous learning."*
 
 </div>
