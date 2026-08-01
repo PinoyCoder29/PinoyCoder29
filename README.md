@@ -1,10 +1,10 @@
 <div align="center">
 
-#  Hi, I'm Jay-Vee Bico
+# 👋 Hi, I'm Jay-Vee Bico
 
-### 🚀 Full-Stack Web Developer | Next.js • Node.js • PostgreSQL
+### 💻 Full-Stack Web Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Building+Modern+Web+Applications;Next.js+%7C+Node.js+%7C+PostgreSQL;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Web+Developer;Building+Modern+Web+Applications;Next.js+%7C+Node.js+%7C+PostgreSQL;Passionate+About+AI+%26+Web+Development;Always+Learning+New+Technologies" />
 
 <img src="https://komarev.com/ghpvc/?username=PinoyCoder29&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
@@ -12,54 +12,115 @@
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-I'm a passionate **Full-Stack Web Developer** from the Philippines who enjoys creating modern, scalable, and user-friendly web applications.
+I'm **Jay-Vee Bico**, a passionate **Full-Stack Web Developer** from the Philippines.
 
-I focus on writing clean, maintainable code while continuously improving my skills in frontend and backend development.
+I enjoy designing and developing modern, scalable, and user-friendly web applications using the latest web technologies.
 
-### Currently
-
-- 🌱 Learning Advanced Next.js & System Design
-- 💻 Building Full-Stack Applications
-- 🚀 Interested in AI Integration
-- 📚 Improving Software Architecture
-- 🎯 Goal: Become a Senior Software Engineer
+I continuously improve my skills by building real-world projects and exploring new technologies in web development and artificial intelligence.
 
 ---
 
-# 🛠 Tech Stack
+## 🎯 Current Focus
 
-### Languages
+- 🌱 Learning Advanced Next.js
+- 🚀 Building Full-Stack Applications
+- 🤖 Exploring Artificial Intelligence
+- ☁️ Cloud Deployment
+- 📚 Software Architecture
+- 💼 Looking for Full-Time Opportunities
+
+---
+
+# 💻 Tech Stack
+
+## 🎨 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,bootstrap" />
 </p>
 
-### Frontend
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Bootstrap
+
+---
+
+## ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
-### Backend
+- Node.js
+- Express.js
+- FastAPI
+- Nodemailer
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-<img height="48" src="https://jwt.io/img/pic_logo.svg"/>
-</p>
+---
 
-### Database
+## 🗄️ Databases & ORM
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,prisma" />
 </p>
 
-### Tools
+- PostgreSQL
+- MySQL
+- Prisma ORM
+- Redis
+
+---
+
+## ☁️ Cloud & Deployment
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,vercel" />
+<img src="https://skillicons.dev/icons?i=vercel" />
 </p>
+
+- Vercel
+- Neon
+- Cloudinary
+- Hugging Face
+
+---
+
+## 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm" />
+</p>
+
+- Git
+- GitHub
+- Postman
+- Visual Studio Code
+- XAMPP
+
+---
+
+## 🤖 Artificial Intelligence & Machine Learning
+
+- TensorFlow
+- PyTorch
+- OpenCV
+- MediaPipe
+- GRU
+- MobileNetV2
+
+---
+
+## 🌐 Programming Languages
+
+- TypeScript
+- JavaScript
+- Python *(Basic)*
+- Java *(Basic)*
 
 ---
 
@@ -69,56 +130,55 @@ I focus on writing clean, maintainable code while continuously improving my skil
 
 AI-powered Sign Language Translation using Computer Vision and Machine Learning.
 
-**Tech**
+**Technologies**
 
-`Next.js`
-`TypeScript`
-`Python`
-`TensorFlow`
-`MediaPipe`
-`PostgreSQL`
+`Next.js` `TypeScript` `Python` `TensorFlow` `MediaPipe` `OpenCV` `PostgreSQL`
 
 ---
 
 ## 🌍 LOMILINDOL
 
-Real-time Earthquake Monitoring and Alert System.
+Real-Time Earthquake Monitoring and Alert System.
 
-🏆 **3rd Place OpenIT Hackathon 2025**
+🏆 **3rd Place - OpenIT Hackathon 2025**
 
 ---
 
 ## 💼 ptFINDER
 
-Platform connecting students with part-time jobs across Quezon Province.
+A web platform connecting students in Quezon Province with flexible part-time job opportunities.
+
+**Technologies**
+
+`Next.js` `TypeScript` `Node.js` `Express.js` `PostgreSQL`
 
 ---
 
 ## 🏥 Patient Record System
 
-Electronic patient information management system.
+A web-based system for managing patient records and medical information.
 
 ---
 
 ## 🏖 Private Resort Booking System
 
-Online reservation and booking platform.
+An online reservation platform for private resort bookings.
 
 ---
 
 ## 📦 Inventory System
 
-Inventory and stock monitoring system.
+A web application for inventory and stock management.
 
 ---
 
 ## 👟 Shoes E-commerce
 
-Modern shopping website built with Next.js.
+A modern e-commerce platform for selling shoes online.
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -140,7 +200,7 @@ Modern shopping website built with Next.js.
 
 ---
 
-# 🏆 GitHub Trophy
+# 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -160,35 +220,37 @@ Modern shopping website built with Next.js.
 
 ---
 
-# 📌 Current Goals
+# 🎯 2026 Goals
 
-- ✅ Build production-ready SaaS applications
-- ✅ Improve backend architecture
+- ✅ Build Production-Ready SaaS Applications
+- ✅ Master Next.js & TypeScript
 - ✅ Learn Docker
 - ✅ Learn CI/CD
 - ✅ Learn AWS
 - ✅ Contribute to Open Source
+- ✅ Improve System Design Skills
+- ✅ Become a Senior Full-Stack Developer
 
 ---
 
-# 🌐 Connect with Me
+# 🌐 Connect With Me
 
-<p>
+<p align="left">
 
 <a href="https://pinoycoder.vercel.app">
-<img src="https://skillicons.dev/icons?i=vercel"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://github.com/PinoyCoder29">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:bjayvee31@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -197,8 +259,8 @@ Modern shopping website built with Next.js.
 
 <div align="center">
 
-### ⭐ Thanks for visiting my GitHub Profile!
+## ⭐ Thanks for visiting my GitHub Profile!
 
-*"Code. Learn. Build. Repeat."*
+### *"Turning ideas into scalable web applications, one commit at a time."*
 
 </div>
