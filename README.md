@@ -1,109 +1,204 @@
-<h1 align="center">Hi 👋, I'm Jay-Vee Bico</h1>
-<h3 align="center">Full-Stack Web Developer from the Philippines 🇵🇭</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Next.js+%7C+Node.js+%7C+PostgreSQL;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
+#  Hi, I'm Jay-Vee Bico
 
----
+### 🚀 Full-Stack Web Developer | Next.js • Node.js • PostgreSQL
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Building+Modern+Web+Applications;Next.js+%7C+Node.js+%7C+PostgreSQL;Always+Learning+New+Technologies" />
 
-- 🌱 Currently improving my **Full-Stack Development** skills.
-- 💻 Passionate about building modern and scalable web applications.
-- 🔭 Interested in **AI, Web Development, and Cloud Technologies**.
-- 📫 Reach me at **bjayvee31@gmail.com**
-- 🌐 Portfolio: **https://pinoycoder.vercel.app**
+<img src="https://komarev.com/ghpvc/?username=PinoyCoder29&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 💫 About Me
+
+I'm a passionate **Full-Stack Web Developer** from the Philippines who enjoys creating modern, scalable, and user-friendly web applications.
+
+I focus on writing clean, maintainable code while continuously improving my skills in frontend and backend development.
+
+### Currently
+
+- 🌱 Learning Advanced Next.js & System Design
+- 💻 Building Full-Stack Applications
+- 🚀 Interested in AI Integration
+- 📚 Improving Software Architecture
+- 🎯 Goal: Become a Senior Software Engineer
+
+---
+
+# 🛠 Tech Stack
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+</p>
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+</p>
 
 ### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon)
 
-### Database & ORM
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img height="48" src="https://jwt.io/img/pic_logo.svg"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,prisma" />
+</p>
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,vercel" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+# 🚀 Featured Projects
 
-- 🤟 **EsignMo** — AI-powered sign language translation web application.
-- 🌍 **LOMILINDOL** — Real-time earthquake monitoring and alert system.
-- 💼 **ptFINDER** — Student part-time job platform.
-- 🏥 **Patient Record System**
-- 🏖️ **Private Resort Booking System**
-- 📦 **Inventory System**
-- 👟 **Shoes E-commerce Project**
+## 🤟 EsignMo
+
+AI-powered Sign Language Translation using Computer Vision and Machine Learning.
+
+**Tech**
+
+`Next.js`
+`TypeScript`
+`Python`
+`TensorFlow`
+`MediaPipe`
+`PostgreSQL`
 
 ---
 
-## 📊 GitHub Stats
+## 🌍 LOMILINDOL
+
+Real-time Earthquake Monitoring and Alert System.
+
+🏆 **3rd Place OpenIT Hackathon 2025**
+
+---
+
+## 💼 ptFINDER
+
+Platform connecting students with part-time jobs across Quezon Province.
+
+---
+
+## 🏥 Patient Record System
+
+Electronic patient information management system.
+
+---
+
+## 🏖 Private Resort Booking System
+
+Online reservation and booking platform.
+
+---
+
+## 📦 Inventory System
+
+Inventory and stock monitoring system.
+
+---
+
+## 👟 Shoes E-commerce
+
+Modern shopping website built with Next.js.
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PinoyCoder29&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinoyCoder29&layout=compact&theme=tokyonight" height="170"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PinoyCoder29&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinoyCoder29&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PinoyCoder29&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=PinoyCoder29&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PinoyCoder29&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=PinoyCoder29&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
+
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PinoyCoder29&theme=tokyo-night" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PinoyCoder29&theme=tokyo-night"/>
+
 </p>
 
 ---
 
-## 🌐 Connect with Me
+# 📌 Current Goals
 
-<p align="left">
-<a href="https://github.com/PinoyCoder29"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="https://www.linkedin.com/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://pinoycoder.vercel.app"><img src="https://skillicons.dev/icons?i=vercel"/></a>
+- ✅ Build production-ready SaaS applications
+- ✅ Improve backend architecture
+- ✅ Learn Docker
+- ✅ Learn CI/CD
+- ✅ Learn AWS
+- ✅ Contribute to Open Source
+
+---
+
+# 🌐 Connect with Me
+
+<p>
+
+<a href="https://pinoycoder.vercel.app">
+<img src="https://skillicons.dev/icons?i=vercel"/>
+</a>
+
+<a href="https://github.com/PinoyCoder29">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:bjayvee31@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
 </p>
 
 ---
 
-<p align="center">
-⭐ If you like my projects, consider giving them a star!
-</p>
+<div align="center">
+
+### ⭐ Thanks for visiting my GitHub Profile!
+
+*"Code. Learn. Build. Repeat."*
+
+</div>
