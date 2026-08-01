@@ -1,114 +1,109 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Jay-Vee Bico</h1>
+<h3 align="center">Full-Stack Web Developer from the Philippines 🇵🇭</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+with+Next.js+%2B+TypeScript;Code.+Ship.+Learn.+Repeat.+%F0%9F%94%84;Forever+a+learner%2C+always+a+builder." alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Next.js+%7C+Node.js+%7C+PostgreSQL;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
-<br />
+---
 
-### Hi, I'm Jayvee 👋
+## 🚀 About Me
 
-Full stack developer who likes turning ideas into shipped products —
-mostly living in the TypeScript / Next.js / Node ecosystem.
+- 🌱 Currently improving my **Full-Stack Development** skills.
+- 💻 Passionate about building modern and scalable web applications.
+- 🔭 Interested in **AI, Web Development, and Cloud Technologies**.
+- 📫 Reach me at **bjayvee31@gmail.com**
+- 🌐 Portfolio: **https://pinoycoder.vercel.app**
 
-<br />
+---
 
-<a href="https://facebook.com/jayvee.bico.16">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
-<a href="https://instagram.com/pinoycoder29">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://linkedin.com/in/jayvee-bico-22533734b">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+## 🛠️ Tech Stack
 
-</div>
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<br />
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 
-## 🧰 Tech Stack
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon)
 
-<div align="center">
+### Database & ORM
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
 
-**Languages**
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-**Frontend**
+## 📌 Featured Projects
 
-![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+- 🤟 **EsignMo** — AI-powered sign language translation web application.
+- 🌍 **LOMILINDOL** — Real-time earthquake monitoring and alert system.
+- 💼 **ptFINDER** — Student part-time job platform.
+- 🏥 **Patient Record System**
+- 🏖️ **Private Resort Booking System**
+- 📦 **Inventory System**
+- 👟 **Shoes E-commerce Project**
 
-**Backend**
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Nodemon](https://img.shields.io/badge/nodemon-323330?style=for-the-badge&logo=nodemon&logoColor=76D04B)
-
-**Database & ORM**
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
-
-**Tooling & Deployment**
-
-![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
-<br />
+---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PinoyCoder29&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinoyCoder29&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PinoyCoder29&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinoyCoder29&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+---
 
-<br />
+## 🔥 GitHub Streak
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=PinoyCoder29&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PinoyCoder29&theme=tokyonight" />
+</p>
 
-</div>
+---
 
-<br />
+## 🏆 GitHub Trophies
 
-## 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PinoyCoder29&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" />
+</p>
 
-<div align="center">
+---
 
-<img src="https://github-profile-trophy.vercel.app/?username=PinoyCoder29&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+## 📈 Contribution Graph
 
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PinoyCoder29&theme=tokyo-night" />
+</p>
 
-<br />
+---
 
-<div align="center">
+## 🌐 Connect with Me
 
-### 💬 Random Dev Quote
+<p align="left">
+<a href="https://github.com/PinoyCoder29"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://www.linkedin.com/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://pinoycoder.vercel.app"><img src="https://skillicons.dev/icons?i=vercel"/></a>
+</p>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+---
 
-</div>
-
-<br />
-
-<div align="center">
-
-<sub>Thanks for stopping by 👋 — feel free to connect on any of the socials above.</sub>
-
-<br /><br />
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=PinoyCoder29&icon=0&color=0" alt="Visit Count" />
-</a>
-
-</div>
+<p align="center">
+⭐ If you like my projects, consider giving them a star!
+</p>
